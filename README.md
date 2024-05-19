@@ -15,3 +15,11 @@ Aprendi con la feria de [Codigo Facilito][def]
 [Paginas para personalizar][def]
 
 [def]:https://shields.io
+
+
+Extras:
+
+gitignore
+
+Dependabot
+
